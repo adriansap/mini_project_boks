@@ -1,1 +1,1 @@
-# mini_project_boks
+# mini_project_mern
